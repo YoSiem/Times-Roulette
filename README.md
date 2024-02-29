@@ -34,8 +34,9 @@ The first android to reach 30 confirmed assassinations wins the round.
   - Wall Climbing/Jumping
 - Built upon a weapon system, designed by my co-engineer
   - Working hit registration
-  - Implemented shooting mode for projectiles (rocket launcher)
+  - Implemented projectile-shots (rocket launcher)
   - Implemented Weapon Switching
-- Implemented Combat Mechanics
-- Implemented a round-system
-- Implemented the menu-screenflow & options menu
+- Combat Mechanics
+- Round-system
+- Character Selection
+- Implementation of the menu-screenflow & options menu
