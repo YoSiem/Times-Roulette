@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: de3e1acc26959d140bba5141f45bf1e8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bulletPrefab: {instanceID: 0}
+  - fpsCam: {instanceID: 0}
+  - attackPoint: {instanceID: 0}
+  - firstPersonArms: {instanceID: 0}
+  - Owner: {instanceID: 0}
+  - reloadSlider: {instanceID: 0}
+  - m_audioPlayer: {instanceID: 0}
+  - m_shotSound: {instanceID: 0}
+  - m_reloadSound: {instanceID: 0}
+  - m_hitMarkerSound: {fileID: 8300000, guid: 7cf4ae24c166e6c43a1891a1b7a12524, type: 3}
+  - camShake: {instanceID: 0}
+  - text: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

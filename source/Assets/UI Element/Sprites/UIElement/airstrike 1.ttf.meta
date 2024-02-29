@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8ee3c874f47794545a5150052cdeae98
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Airstrike
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3ed1b0a38553e40488c863109ab30083, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
