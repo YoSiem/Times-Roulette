@@ -1,9 +1,9 @@
 [![Time's Roulette Logo](img/Logo.png)](https://s4g.itch.io/times-roulette)
 
 ## Time's Roulette (Student Project)
- 
 - Homepage: https://times-roulette.school4games.net
 - Itch Page: https://s4g.itch.io/times-roulette
+- Get the locally playable version from the Release I published on this repo
 
 #### Local / Online PvP FPS
 
