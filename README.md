@@ -21,22 +21,13 @@ The first android to reach 30 confirmed assassinations wins the round.
 
 #### Roles
 - Gameplay Programmer
-- UI Programmer
+- Network Programmer
 
 #### Engine / Languages
 - Unity, C#
 
 #### Responsibilities
-- Implemented Player Movement that is easily editable for designers via Inspector values
-  - Sprinting
-  - Dashing
-  - Multi-Air-Jumps
-  - Wall Climbing/Jumping
-- Built upon a weapon system, designed by my co-engineer
-  - Working hit registration
-  - Implemented projectile-shots (rocket launcher)
-  - Implemented Weapon Switching
-- Combat Mechanics
-- Round-system
-- Character Selection
-- Implementation of the menu-screenflow & options menu
+- **Login Server Development**: Developing a robust login server to facilitate user access.
+- **Weapon Mechanics**: Creating scripts to handle every weapon in our game.
+- **Multiplayer Synchronization**: Implementing multiplayer logic using the Mirror framework.
+- **Unity Scripts**: From prefabs to scripts, optimized for an immersive multiplayer experience.
